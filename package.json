@@ -1,0 +1,29 @@
+{
+  "name": "urban-disco",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias 23 Marzo",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Segamo/urban-disco.git"
+  },
+  "keywords": [],
+  "author": "Equipo UNAC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Segamo/urban-disco/issues"
+  },
+  "homepage": "https://github.com/Segamo/urban-disco#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4"
+  }
+}
